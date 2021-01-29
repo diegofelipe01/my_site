@@ -19,7 +19,7 @@ body {
   box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
 
   /* image name */
-  background-image: url("background.jpg");
+  background-image: url("./assets/images/background.jpg");
   /*this part sets everything to look good and resize nicely accross every plataform*/
   background-position: center;
   background-repeat: no-repeat;
