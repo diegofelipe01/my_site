@@ -18,7 +18,7 @@ body {
   text-shadow: 0 .05rem .05rem rgba(0, 0, 0, .5);
 
   /* image name */
-  background-image: url("./assets/images/background.jpg");
+  background-color: #333;
   /*this part sets everything to look good and resize nicely accross every plataform*/
   background-position: center;
   background-repeat: no-repeat;
@@ -63,6 +63,7 @@ body {
 
 /* Carousel base class */
 .carousel {
+  margin-top: 0.5rem;
   margin-bottom: 4rem;
 }
 /* Since positioning the image, we need to help out the caption */
